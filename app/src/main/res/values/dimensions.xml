@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<dimen name="space_small">8dp</dimen>
+
+	<dimen name="font_size_large">36sp</dimen>
+	<dimen name="font_size_large_2x">120sp</dimen>
+	<dimen name="font_size_large_3x">160sp</dimen>
+</resources>
